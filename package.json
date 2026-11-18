@@ -1,0 +1,6 @@
+{
+  "name": "world-news-2026-11-17",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" }
+}

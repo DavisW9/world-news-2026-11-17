@@ -1,0 +1,12 @@
+# Editorial source notes
+
+The selected day is 17 November 2026. These notes are original summaries of the parent's verified research. The illustration uses symbolic scenes and does not document the exact appearance of the events.
+
+- **Crimea bridge struck.** Reuters published verified footage of damage on 17 November. Ukraine reported destruction of a span and arch; Russian accounts disputed the extent. The subtitle attributes the destruction report to Ukraine. [Reuters via MarketScreener](https://www.marketscreener.com/news/ukraine-releases-video-it-says-shows-strikes-on-crimea-bridge-ce785edcda8cf52c).
+- **Gaza ceasefire warning.** AP's 17 November report describes a Board of Peace briefing to the UN Security Council warning that the fragile truce could collapse without implementation. The panel depicts a warning, not an accomplished collapse. [Associated Press](https://apnews.com/article/189d58d05fa984cc9573f98ec7d638be).
+- **China rejects chip curbs.** China's 17 November press conference criticized US advanced-chip controls announced on 16 November. This is the response on the selected day, with no agreement asserted. [China Ministry of Foreign Affairs](https://www.fmprc.gov.cn/mfa_eng./xw/fyrbt/202611/t20261117_12061159.html).
+- **COP31 talks divided.** Le Monde reported divisions over the draft decision, including finance, on 17 November. UNFCCC lists that day's high-level sessions in Antalya. No final deal or binding funding pledge is claimed. [Le Monde](https://www.lemonde.fr/en/environment/article/2026/11/17/cop31-s-first-draft-decision-reveals-deep-divisions_6782826_114.html), [UNFCCC](https://unfccc.int/cop31/resumed-high-level).
+- **Canary arrivals surge.** AP reported on 17 November that more than 11,000 migrants reached the islands during the first half of November. That period is explicit in the image; it is not a daily count. [Associated Press](https://apnews.com/article/spain-immigration-european-union-election-6f445ec34948037742cc83aea6e5ea82).
+- **Earthshot winners named.** AP reported the 17 November ceremony in Mumbai, with five awards of £1 million each. The scene is a generic environmental-awards illustration. [Associated Press](https://apnews.com/article/india-britain-royals-prince-william-earthshot-prize-ca7f09a7254de67709750b0cb3f6ae77).
+
+The image's compact reporting footer names Reuters, AP, UNFCCC and China MFA; Le Monde's additional COP31 reporting is credited here. The actual source research and built-in image_gen call are preserved in the parent chat supplied as evidence context.
