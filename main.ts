@@ -2,8 +2,8 @@ import { readFileSync, mkdirSync, writeFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { resolve } from 'node:path';
 
-// The committed JPEG is the complete editorial artifact; runtime needs no network.
-const source = fileURLToPath(new URL('./assets/news-2026-11-17.jpg', import.meta.url));
+// Copy the parent-supplied, normalized v2 newspaper; retain v1 only as an archive.
+const source = fileURLToPath(new URL('./assets/news-2026-11-17-v2.jpg', import.meta.url));
 const bytes = readFileSync(source);
 if (bytes.length > 1048576 || bytes[0] !== 0xff || bytes[1] !== 0xd8 ||
     bytes[bytes.length - 2] !== 0xff || bytes[bytes.length - 1] !== 0xd9) {
